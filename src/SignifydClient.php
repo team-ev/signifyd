@@ -1,5 +1,8 @@
 <?php
 
+namespace TeamEV\signifyd;
+
+
 /**
  * A signifyd wrapper for their restful http api.
  */
